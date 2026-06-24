@@ -1,6 +1,6 @@
 # ⚡ GoForge — Production API Blueprint
 
-> **One project. Nine stages. From `main.go` to something engineers at Google, Uber, and Docker would actually respect.**
+> **One project. Nine stages. **
 
 [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Primary_DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
